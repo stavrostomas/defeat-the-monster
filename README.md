@@ -1,4 +1,6 @@
-# kill-the-monster
+# Defeat-the-monster
+Simple Vue.js game,
+Have a look here: https://stavrostomas.github.io/defeat-the-monster/
 
 ## Project setup
 ```
@@ -29,6 +31,3 @@ npm run lint
 ```
 npm run test:unit
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

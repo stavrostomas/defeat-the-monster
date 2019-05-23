@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.6bf208490fa8372a75fe3612f283f142.js"
+  "/defeat-the-monster/precache-manifest.d7f3c579aead2b64991c0f8df8370504.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "kill-the-monster"});
